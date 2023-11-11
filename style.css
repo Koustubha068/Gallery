@@ -1,5 +1,17 @@
-
+body{
+    background-color: #cfb6a2;
+    font-family: 'Playfair Display', serif;
+}
    .bg-hero-image{
     background-image:url('https://picsum.photos/1300/500');
     background-position:center center;
+    border-radius:7px;
+    border: 10px solid rgba(129,80,52,0.7);
+    box-shadow: 10px 5px 5px rgba(46, 29, 19, 0.4);
+    font-family: 'Playfair Display', serif;
+}
+.text{
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    color:black;
 }
