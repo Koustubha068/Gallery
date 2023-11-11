@@ -24,8 +24,9 @@ body{
 .card-title{
     font-weight:bold;
     letter-spacing:0.2px;
+    color:black;
 
 }
-.button{
-    box-shadow: 10px 5px 5px rgba(207, 182, 162, 0.4);
+.btn{
+    box-shadow: 10px 5px 3px rgba(207, 182, 162, 0.3);
 }
