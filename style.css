@@ -17,7 +17,15 @@ body{
 }
 .card{
     background-color: #cc9e7b;
-    border-radius:3px;
-    border: 10px solid rgba(29,19,14,0.7);
-    box-shadow: 10px 5px 5px rgba(46, 29, 19, 0.4);
+    border-radius:rounded;
+    border: 7px solid rgba(29,19,14,0.7);
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.4);
+}
+.card-title{
+    font-weight:bold;
+    letter-spacing:0.2px;
+
+}
+.button{
+    box-shadow: 10px 5px 5px rgba(207, 182, 162, 0.4);
 }
