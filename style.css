@@ -17,8 +17,8 @@ body{
 }
 .card{
     background-color: #cc9e7b;
-    border-radius:rounded;
-    border: 7px solid rgba(29,19,14,0.7);
+    border-radius:20px;
+    border: 5px solid rgba(29,19,14,0.7);
     box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.4);
 }
 .card-title{
