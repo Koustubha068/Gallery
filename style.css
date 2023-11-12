@@ -30,3 +30,9 @@ body{
 .btn{
     box-shadow: 10px 5px 3px rgba(207, 182, 162, 0.3);
 }
+.nav{
+    background-color: #e9e5dc;
+}
+.footer{
+    background-color: #e9e5dc;
+}
