@@ -27,6 +27,12 @@ body{
     color:black;
 
 }
+.card-img-top{
+    height:180px;
+    width:270px;
+    float:left;
+    margin-left:0px 0px 0px 30px;
+}
 .btn{
     box-shadow: 10px 5px 3px rgba(207, 182, 162, 0.3);
 }
